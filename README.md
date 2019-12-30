@@ -1,4 +1,3 @@
-Juego de serpiente en Python
 # Snake with squares
 El juego de snake con un background con cuadros los cuales son de Width=20 y Height=20
 
